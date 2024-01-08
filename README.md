@@ -2,4 +2,4 @@
 
 
 ## Проекты
-* [Arrays](https://github.com/abodrij/sf_android/tree/main/src/Main.java)
+* [Arrays](https://github.com/abodrij/sf_android/tree/master/src/Main.java)
