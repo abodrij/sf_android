@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76307bcf-84e6-412f-9ba1-c8a2a7315361" name="Changes" comment="README.md">
+      <change afterPath="$PROJECT_DIR$/src/Zombie/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zombie/Z_main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zombie/Zombie.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ZtlFMSXWbPhygqXRIDtuhAYDz6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Task_4_3_1.executor": "Run",
+    "Application.Tasks_1.executor": "Run",
+    "Application.Tasks_10.executor": "Run",
+    "Application.Tasks_11.executor": "Run",
+    "Application.Tasks_2.executor": "Run",
+    "Application.Tasks_5.executor": "Run",
+    "Application.Tasks_6.executor": "Run",
+    "Application.Tasks_7.executor": "Run",
+    "Application.Tasks_8.executor": "Run",
+    "Application.Tasks_9.executor": "Run",
+    "Application.Z_main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Alex/IdeaProjects/Arrays/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76307bcf-84e6-412f-9ba1-c8a2a7315361" name="Changes" comment="" />
+      <created>1703249151612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703249151612</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Second commint">
+      <option name="closed" value="true" />
+      <created>1704597926662</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704597926662</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second commint">
+      <option name="closed" value="true" />
+      <created>1704598366958</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704598366958</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second commint">
+      <option name="closed" value="true" />
+      <created>1704598380726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704598380726</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2 2nd attempt">
+      <option name="closed" value="true" />
+      <created>1704614637091</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704614637091</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1704616751968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704616751968</updated>
+    </task>
+    <task id="LOCAL-00006" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1704617026145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704617026145</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Check commit">
+      <option name="closed" value="true" />
+      <created>1704680058084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704680058084</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Check commit 01">
+      <option name="closed" value="true" />
+      <created>1704680200821</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704680200821</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Check commit 02">
+      <option name="closed" value="true" />
+      <created>1704683996138</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704683996138</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Check commit 03">
+      <option name="closed" value="true" />
+      <created>1704700885223</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1704700885223</updated>
+    </task>
+    <task id="LOCAL-00011" summary="README.md 01">
+      <option name="closed" value="true" />
+      <created>1704703171478</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704703171478</updated>
+    </task>
+    <task id="LOCAL-00012" summary="README.md 01">
+      <option name="closed" value="true" />
+      <created>1704703902002</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704703902002</updated>
+    </task>
+    <task id="LOCAL-00013" summary="README.md 01">
+      <option name="closed" value="true" />
+      <created>1704704160429</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704704160429</updated>
+    </task>
+    <task id="LOCAL-00014" summary="main 01">
+      <option name="closed" value="true" />
+      <created>1704705923800</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704705923800</updated>
+    </task>
+    <task id="LOCAL-00015" summary="main 01">
+      <option name="closed" value="true" />
+      <created>1704707331687</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704707331687</updated>
+    </task>
+    <task id="LOCAL-00016" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1704707789822</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704707789822</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commint" />
+    <MESSAGE value="2 2nd attempt" />
+    <MESSAGE value="First commit" />
+    <MESSAGE value="Check commit" />
+    <MESSAGE value="Check commit 01" />
+    <MESSAGE value="Check commit 02" />
+    <MESSAGE value="Check commit 03" />
+    <MESSAGE value="README.md 01" />
+    <MESSAGE value="main 01" />
+    <MESSAGE value="README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
