@@ -1,5 +1,4 @@
-package AdditionalTasks;
-import java.util.*;
+package Add_Tasks_Mod_03;
 
 public class Tasks_9 {
     public static short size = 16;

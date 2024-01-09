@@ -1,4 +1,4 @@
-package AdditionalTasks;
+package Add_Tasks_Mod_03;
 import java.util.*;
 
 public class Tasks_7 {

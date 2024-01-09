@@ -1,10 +1,5 @@
-import AdditionalTasks.Alphabet;
-import Bookstore.Book;
-import java.util.*;
-import static Bookstore.Books_metods.addBook;
-import static Bookstore.Books_metods.printAllBookList;
-import static java.lang.Math.*;
-import Tank.Tank;
+import Add_Tasks_Mod_03.Alphabet;
+
 public class Main {
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package AdditionalTasks;
+package Add_Tasks_Mod_03;
 
 public class Tasks_2 {
     public static void main(String[] args) {
