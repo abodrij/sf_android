@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76307bcf-84e6-412f-9ba1-c8a2a7315361" name="Changes" comment="README.md">
-      <change afterPath="$PROJECT_DIR$/src/Zombie/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zombie/Z_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Zombie/Zombie.java" afterDir="false" />
+    <list default="true" id="76307bcf-84e6-412f-9ba1-c8a2a7315361" name="Changes" comment="Zombie">
+      <change afterPath="$PROJECT_DIR$/src/AdditionalTasks/Alphabet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zombie/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zombie/Zombie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,32 +45,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Task_4_3_1.executor": "Run",
-    "Application.Tasks_1.executor": "Run",
-    "Application.Tasks_10.executor": "Run",
-    "Application.Tasks_11.executor": "Run",
-    "Application.Tasks_2.executor": "Run",
-    "Application.Tasks_5.executor": "Run",
-    "Application.Tasks_6.executor": "Run",
-    "Application.Tasks_7.executor": "Run",
-    "Application.Tasks_8.executor": "Run",
-    "Application.Tasks_9.executor": "Run",
-    "Application.Z_main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Alex/IdeaProjects/Arrays/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_4_3_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tasks_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Z_main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Alex/IdeaProjects/Arrays/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -214,7 +215,31 @@
       <option name="project" value="LOCAL" />
       <updated>1704707789822</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Zombie">
+      <option name="closed" value="true" />
+      <created>1704725487943</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704725487943</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Zombie">
+      <option name="closed" value="true" />
+      <created>1704725500164</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704725500164</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Zombie">
+      <option name="closed" value="true" />
+      <created>1704725513392</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704725513392</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -239,7 +264,8 @@
     <MESSAGE value="README.md 01" />
     <MESSAGE value="main 01" />
     <MESSAGE value="README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md" />
+    <MESSAGE value="Zombie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zombie" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

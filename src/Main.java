@@ -1,3 +1,4 @@
+import AdditionalTasks.Alphabet;
 import Bookstore.Book;
 import java.util.*;
 import static Bookstore.Books_metods.addBook;
@@ -7,20 +8,29 @@ import Tank.Tank;
 public class Main {
     public static void main(String[] args) {
 
-        // At (0;0) fuel=100
-        Tank justTank = new Tank();
-        // At (10;10) fuel=100
-        Tank anywareTank = new Tank(10, 10);
-        // At (20;30) fuel=200
-        Tank customTank = new Tank(20, 30, 200);
-        justTank.goForward(200);
-        justTank.printPosition();
-        anywareTank.goBackward(-200);
-        anywareTank.printPosition();
-        customTank.goForward(201);
-        customTank.printPosition();
+        Alphabet alphabet = new Alphabet();
+        alphabet.setW(5);
+        System.out.println(alphabet.getSum());
+        alphabet.setA(5);
+        alphabet.setS(7);
+        alphabet.setD(7);
+        System.out.println(alphabet.getSum());
 
-        System.out.println("Чтобы узнать длину этой строки в символах, достаточно написать такую команду:".length());
+//
+//        // At (0;0) fuel=100
+//        Tank justTank = new Tank();
+//        // At (10;10) fuel=100
+//        Tank anywareTank = new Tank(10, 10);
+//        // At (20;30) fuel=200
+//        Tank customTank = new Tank(20, 30, 200);
+//        justTank.goForward(200);
+//        justTank.printPosition();
+//        anywareTank.goBackward(-200);
+//        anywareTank.printPosition();
+//        customTank.goForward(201);
+//        customTank.printPosition();
+
+//        System.out.println("Чтобы узнать длину этой строки в символах, достаточно написать такую команду:".length());
 
 /*
 This fragment of code has to output
@@ -168,5 +178,19 @@ The Tank is at 220, 30 now.
 
 }
 
-
-
+// Задание 6.3.3 — разработка (External resource)
+// PROTECTED IS NOT SECURE ENOUGH
+//import anotherfirm.*;
+//public class HackIt {
+//
+//    public static void main(String[] args) {
+//        Hack a = new Hack();
+//        a.hack();
+//    }
+//}
+//
+//class Hack extends Secret {
+//    public void hack() {
+//        getSecret();
+//    }
+//}
