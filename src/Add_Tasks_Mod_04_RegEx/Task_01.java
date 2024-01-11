@@ -1,4 +1,4 @@
-package Add_Tasks_Mod_04;
+package Add_Tasks_Mod_04_RegEx;
 import java.util.regex.*;
 
 // Сгенерировать строку номеров телефонов в формате «+7 (926) 123-4567» с разделителем «;».
